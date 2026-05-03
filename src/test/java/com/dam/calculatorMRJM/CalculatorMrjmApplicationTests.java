@@ -15,5 +15,5 @@ class CalculatorMRJMApplicationTests {
     @Test
     public void testSum() {
         assertEquals(5, calculator.sum(3, 2));
-    }
+    } 
 }
